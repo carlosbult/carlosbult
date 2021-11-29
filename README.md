@@ -1,11 +1,6 @@
 - 👋 Hi, I´m Carlos Acevedo Bult
 
-- 👀 I’m interested in Software Development
-
-- 🌱 I am currently learning Web Development at platzi.com/p/carlosbult/
-
-- 💞️ I am looking to collaborate as a junior frontend developer, to be able to begin to develop my skills in the labor field and with 
-      work teams with which I can grow and support the growth of the team together.
+- 👀 I’m Jr React Developer
       
 - 📫 How to reach me: acevedo.bult@gmail.com
 
