@@ -1,6 +1,6 @@
 - 👋 Hi, I´m Carlos Acevedo Bult
 
-- 👀 I’m Jr React Developer
+- 👀 I’m Web Developer
       
 - 📫 How to reach me: acevedo.bult@gmail.com
 
