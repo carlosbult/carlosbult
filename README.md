@@ -2,7 +2,7 @@
 
 - 👀 I’m Web Developer
       
-- 📫 How to reach me: hi@carlosbult.dev
+- 📫 How to reach me: acevedo.bult@gmail.com
 
 <!---
 carlosbult/carlosbult is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
